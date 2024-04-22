@@ -5,6 +5,7 @@
   overflow-x: hidden;
   box-sizing: border-box;
   background-color: #263238;
+  padding:35px;
  }
 
 grid-page {
