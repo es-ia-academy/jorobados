@@ -20,7 +20,6 @@ position:relative;
 display:grid;
 border-radius: 10px;
 overflow: hidden;
-margin:20px;
 }</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){ /* Tablet styles here */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){ /* Mobile styles here */ }</style><section id="TYBaycN" data-type="section"><!--CSS--><style id="vSjBWMf" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#BUhBbqJ {
   position: relative;
 }
