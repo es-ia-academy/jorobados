@@ -1,4 +1,4 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">body{
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page{
     padding:35px;
     background:red;
     display:grid;
