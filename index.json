@@ -1,8 +1,7 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){ /* Tablet styles here */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){ /* Mobile styles here */ }</style>
-  <section id="TYBaycN" data-type="section">
-      
-      <!--CSS-->
-      <style id="vSjBWMf" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#BUhBbqJ {
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">body{
+    padding:35px;
+    background:red;
+}</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){ /* Tablet styles here */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){ /* Mobile styles here */ }</style><section id="TYBaycN" data-type="section"><!--CSS--><style id="vSjBWMf" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#BUhBbqJ {
   position: relative;
 }
 
@@ -70,13 +69,11 @@ grid-box#IMnYpSr item-head img {
   width: 100%;
   object-fit: cover;
 }
-</style>
-      <style id="hnZiyyp" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+</style><style id="hnZiyyp" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#IMnYpSr {
     display: grid;
   }
-  }</style>
-      <style id="iNTySgG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  }</style><style id="iNTySgG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
   grid-head#oaAiISa{
     grid-column: 1 / -1;
     display: grid;
@@ -89,37 +86,4 @@ grid-box#IMnYpSr item-head img {
       padding:0;
       grid-template-columns: 1fr 1fr;
   }
-  }</style>
-      
-      <!--HTML-->
-      <div id="lRizmze" data-type="html">
-        <grid-container id="KUGASrX">
-          <grid-bg id="tfVwJgw">
-            <bg-color id="WtcEVdl"></bg-color>
-          </grid-bg>
-          <grid-box id="IMnYpSr">
-            <grid-head id="oaAiISa">
-              <grid-title id="mGgvPrk" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="xoipckQ" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
-            </grid-head>
-            <grid-item id="IpKGlyS">
-        <item-head id="OPcoZCI">
-          <img id="bsCMyvV" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="KlmslYr">
-          <item-title id="VmbxnIt" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="xVOAvjH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('IpKGlyS')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="FSrKXEi" class="no-export grid-add-item" onclick="itemNew('IMnYpSr','FSrKXEi')">
-              <img id="server-addItem" src="../global/file/add.svg">
-            </button>
-          </grid-box>
-        </grid-container>
-      </div>
-      
-      <!--JS-->
-      <script id="dypBXdO" data-type="js"></script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+  }</style><!--HTML--><div id="lRizmze" data-type="html"><grid-container id="KUGASrX"><grid-bg id="tfVwJgw"><bg-color id="WtcEVdl"></bg-color></grid-bg><grid-box id="IMnYpSr"><grid-head id="oaAiISa"><grid-title id="mGgvPrk" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="xoipckQ" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="IpKGlyS"><item-head id="OPcoZCI"><img id="bsCMyvV" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="KlmslYr"><item-title id="VmbxnIt" contenteditable="true">Lorem ipsum</item-title><item-desc id="xVOAvjH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('IpKGlyS')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="FSrKXEi" class="no-export grid-add-item" onclick="itemNew('IMnYpSr','FSrKXEi')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="dypBXdO" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
