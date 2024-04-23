@@ -18,7 +18,6 @@ grid-page {
   position:relative;
   gap:35px;
   margin:0 auto;
-  margin-bottom:100px;
   max-width:1500px;
 }
 section {
