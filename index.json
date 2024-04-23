@@ -22,7 +22,7 @@ grid-page {
   max-width:1500px;
 }
 bg-color{
-    background:white;
+    background:white!important;
 }
 section {
 position:relative;
