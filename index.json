@@ -31,7 +31,7 @@ section {
 
 @media screen and (max-width: 640px) {
   grid-page {
-    gap: 5px;
+    gap: 20px;
     padding: 5px;
   }
 
