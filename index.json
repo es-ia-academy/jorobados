@@ -34,10 +34,6 @@ section {
   }
 }
 </style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) {
-  body {
-    background: red;
-  }
-
   grid-page {
     gap: 35px;
     padding: 5px;
