@@ -42,6 +42,10 @@ section {
   section {
     margin: 5px;
   }
+
+  grid-box {
+    padding: 5px;
+  }
 }
 </style><section id="TYBaycN" data-type="section"><!--CSS--><style id="vSjBWMf" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#BUhBbqJ {
   position: relative;
