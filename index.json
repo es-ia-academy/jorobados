@@ -21,9 +21,6 @@ grid-page {
   margin-bottom:100px;
   max-width:1500px;
 }
-bg-color{
-    background:white!important;
-}
 section {
 position:relative;
 display:grid;
