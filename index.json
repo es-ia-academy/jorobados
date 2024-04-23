@@ -17,7 +17,7 @@ grid-page {
   display: grid;
   position:relative;
   gap:35px;
-  paading:35px
+  paading:35px;
   margin:0 auto;
 }
 section {
